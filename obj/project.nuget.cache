@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "M58Wnh8c4JxVmqjuRfY2+1rhWA0oYMuFDYpi2qbljHCjIoRVJyc2/qFhMg2SZnOYbSpvruiVkO/4ZjaVFtD50g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tural\\source\\repos\\FishingApp\\FishingApp\\PhishingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tural\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Tural\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Tural\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Tural\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Tural\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.26\\microsoft.netcore.app.host.win-x86.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}
